@@ -1,0 +1,482 @@
+html * {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 22px;
+    line-height: 1.5;
+    font-family: "FiraSans-Regular", Helvetica Neue, -apple-system, "system-ui", BlinkMacSystemFont, sans-serif;
+}
+
+blockquote {
+    margin: 1em 0;
+    padding: 1px 21px !important;
+    border: none !important;
+    font-style: normal !important;
+}
+
+figure {
+    margin: 0.9em auto;
+}
+
+img {
+    max-width: 700px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+.vazhno {
+    font-family: sans-serif;
+    background-color: rgb(243, 243, 243);
+    border: solid 3px rgb(219, 1, 15) !important;
+    font-style: normal !important;
+    border-radius: 10px;
+    padding: 0 20px !important;
+    color: rgb(9, 1, 96);
+    font-weight: 600;
+}
+
+.vazhno b,
+.vazhno strong {
+    color: rgb(219, 1, 15);
+}
+
+.vazhno2 {
+    font-family: sans-serif;
+    background-color: #fff679b8;
+    border: solid 3px #c8b000 !important;
+    font-style: normal !important;
+    border-radius: 10px;
+    padding: 0 20px !important;
+    color: rgb(9, 1, 96);
+    font-weight: 500;
+    line-height: 1.6;
+}
+
+.vazhno3 {
+    font-family: sans-serif;
+    border: solid 3px #008011 !important;
+    font-style: normal !important;
+    border-radius: 10px;
+    padding: 0 20px !important;
+    background-color: #e2f0dd;
+    color: #008011;
+    font-weight: 500;
+    line-height: 1.6;
+}
+
+.vazhno4 {
+    font-family: sans-serif;
+    border: solid 3px #810f0f !important;
+    font-style: normal !important;
+    border-radius: 10px;
+    padding: 0 20px !important;
+    background-color: #fbdfdf;
+    color: #810f0f;
+    font-weight: 500;
+    line-height: 1.6;
+}
+
+.imageblock {
+    width: 100% !important;
+    display: block !important;
+    margin: 5px auto !important;
+    float: none !important;
+    padding: 10px 10px 0 10px;
+    background: #ededed;
+}
+
+.imageblock figcaption {
+    display: block !important;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background: none !important;
+    text-align: center;
+}
+
+.imageblock2 {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: flex !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none !important;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px;
+    background: #ededed;
+}
+
+.imageblock2 img {
+    min-width: 0% !important;
+    width: 50% !important;
+    display: block !important;
+    /* height: 100%; */
+    max-height: min-content;
+    margin: 15px auto;
+    object-fit: cover;
+}
+
+.imageblock2 figcaption {
+    width: 50% !important;
+    display: block !important;
+    background: none !important;
+    word-break: normal !important;
+    text-align: left;
+}
+
+.container {
+    max-width: 950px;
+    width: 100%;
+    margin: auto;
+    padding: 0 10px;
+}
+
+.otz {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto 20px auto;
+    gap: 10px;
+    box-shadow: 0px 5px 10px 2.5px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.review-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    max-width: 500px;
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid #eaeaea;
+    margin: 20px auto;
+}
+
+.review-header {
+    padding: 20px;
+    border-bottom: 1px solid #f0f0f0;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: space-around;
+}
+
+.review-avatar {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid #e0e0e0;
+    margin: 0;
+}
+
+.reviewer-name {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.reviewer-age {
+    color: #666;
+    font-size: 14px;
+}
+
+.review-content {
+    padding: 20px;
+}
+
+.review-text {
+    color: #444;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.review-card h3 {
+    margin: 0;
+}
+
+.review-card p {
+    margin: 0;
+}
+
+.product-link {
+    color: #2c5aa0;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.product-link:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 480px) {
+    .review-header {
+        flex-direction: column;
+        text-align: center;
+        padding: 15px;
+    }
+
+    .review-content {
+        padding: 15px;
+    }
+}
+
+.green_bg_block {
+    font-family: sans-serif;
+    font-size: 26px;
+    color: #fff;
+    background: #0b642b;
+    text-align: center;
+    border-radius: 10px;
+    border: none !important;
+    font-style: normal !important;
+    border-radius: 10px;
+    padding: 10px !important;
+    color: rgb(9, 1, 96);
+    font-weight: 600;
+}
+
+.block_border {
+    border: solid 3px !important;
+}
+
+.block_border_radius {
+    border-radius: 10px;
+}
+
+.block_green {
+    background-color: #e2f0dd;
+    border-color: #008011 !important;
+}
+
+.block_yellow {
+    background-color: #fff679b8;
+    border-color: #c8b000 !important;
+}
+
+.block_red {
+    background-color: #fbdfdf;
+    border-color: #810f0f !important;
+}
+
+.block_blue {
+    background-color: #5968fb;
+    border-color: #0f2a81 !important;
+    color: #fff;
+}
+
+.block_gray {
+    background-color: #ececec;
+    border-color: #c5c5c5 !important;
+}
+
+.block_blue_dark {
+    background-color: #0f2a81;
+    border-color: #0f2a81 !important;
+    color: #fff;
+}
+
+.block_green_dark {
+    background-color: #008011;
+    border-color: #008011 !important;
+    color: #fff
+}
+
+.block_red_dark {
+    background-color: #810f0f;
+    border-color: #810f0f !important;
+    color: #fff
+}
+
+figure img {
+    margin: auto;
+    max-width: inherit;
+    display: block;
+}
+
+.coment_header {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.coment_header img {
+    width: 55px !important;
+    height: 55px !important;
+    border-radius: 10px;
+    display: block;
+    object-fit: cover;
+}
+
+.dialog {
+    display: flex !important;
+    gap: 15px;
+    align-items: flex-start;
+    max-width: 100%;
+}
+
+.dialog img {
+    height: 75px !important;
+    min-height: 75px !important;
+    max-height: 75px !important;
+    width: 75px !important;
+    min-width: 75px !important;
+    max-width: 75px !important;
+    border-radius: 50%;
+    margin: 0;
+    object-fit: cover;
+}
+
+.dialog figcaption {
+    background: #ededed !important;
+    border-radius: 15px;
+    font-size: 18px !important;
+    text-align: start;
+    padding: 10px;
+    min-height: 75px;
+    min-width: calc(100% - 90px);
+    color: #000 !important;
+}
+
+.dialog figcaption::before {
+    content: '&#x27';
+    left: -10px;
+    top: 30px;
+    transform: rotate(45deg) translateX(6px);
+    position: absolute;
+    background-color: #ededed;
+    width: 10px;
+    height: 10px;
+}
+
+figure,
+.ck-content .image.image_resized {
+    max-width: 600px;
+}
+
+figcaption {
+    background-color: #0000000d;
+    font-size: 18px !important;
+    padding: 10px;
+    text-align: center;
+}
+
+.quote__dashed_yelow {
+    color: #000000;
+    border: dashed 5px rgb(255,153,0) !important;
+    font-size: 22px;
+}
+
+.quote__red {
+    color: #b01e1e;
+    border-left: solid 5px #b01e1e !important;
+}
+
+.quote__gray {
+    color: #000000;
+    border-left: solid 4px #d9d9d9 !important;
+}
+
+.quote__green {
+    color: #000000;
+    border-left: solid 4px #008011 !important;
+}
+
+.quote_light_blue {
+    background-color: #a1c4e8;
+    border-color: #205995 !important;
+}
+
+.block_border_red {
+    border: solid 3px !important;
+    border-color: #b01e1e !important;
+}
+
+.block_orange {
+    background-color: #ffecd5;
+    border-color: #ed6e0d !important;
+}
+
+@media (max-width: 600px) {
+    .imageblock2 {
+        flex-direction: column
+    }
+}
+
+h1 {
+    font-size: 32px;
+}
+
+i {
+    font-size: 20px;
+}
+
+a {
+    color: #000;
+}
+
+@media (max-width: 760px) {
+    h1 {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 760px) {
+    h2 {
+        font-size: 22px;
+    }
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+@media (max-width: 600px) {
+
+    .imageblock2 img,
+    .imageblock2 figcaption {
+        width: 100% !important;
+        margin: 0;
+    }
+}
+
+ul li {
+    color: #000;
+}
+
+.text-small {
+    font-size: 14px;
+}
+
+.text-tiny {
+    font-size: 12px;
+}
+
+.block_card {
+    border-radius: 20px;
+    box-shadow: 0 0 15px 0 #ccc;
+}
+
+blockquote p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
