@@ -1,7 +1,7 @@
 <?php
 $s = [
-  'lang' => 'CZ', // Код языка лендинга
-  'offerName' => 'Cordyceps Pulse neuro', // Наименование оффера
+  'lang' => 'RO', // Код языка лендинга
+  'offerName' => 'Complex Neuro-Vascular CM-12', // Наименование оффера
   'intTel' => true, // Маска для номера
   // Данные партнерской интеграции
   'partner' => [
@@ -10,8 +10,8 @@ $s = [
     'offer_id' => '19414'
   ]
 ];
-$oldPrice = '1780 CZK'; // Для удобства
-$mainPrice = '890 CZK'; // Для удобства
+$oldPrice = '279 RON'; // Для удобства
+$mainPrice = '139 RON'; // Для удобства
 // Подключение скрипта защиты лендинга. Расскоментировать после всех правок строки ниже
 require_once __DIR__ . '/../../protect/init.php';
 $protection = new Cparja(__DIR__);
@@ -20,7 +20,7 @@ $protection->protect([
 ]);
 ?>
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="ro">
 <head>
 <meta charset="utf-8"/>
 <meta content="v=1.2.4.9.4.2m7sgan22nfhf" name="theme-version"/>
@@ -33,7 +33,7 @@ $protection->protect([
   </style>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <title>
-        Cordyceps Pulse
+        Complex Neuro-Vascular CM-12
     </title>
 <link href="base.css" rel="stylesheet"/>
 <link href="video.css" rel="stylesheet"/>
@@ -52,7 +52,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(255,0,0);">
 <span>
 <strong>
-                        Věděli jste, že pálivou bolest při neuropatii lze odstranit za pouhých 15 sekund pomocí jednoduché domácí metody?
+                        Migrena cronică progresivă + vederea încețoșată indică un dezechilibru neuro-vascular care nu mai poate fi ignorat.
                     </strong>
 </span>
 </span>
@@ -61,28 +61,28 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Často jsem trpěl nesnesitelným pálením v chodidlech, brněním jako elektrickým proudem, necitlivostí v nohou a pekelnou noční bolestí, kvůli které nebylo možné usnout.
+                    Mulți pacienți descriu episoade care devin mai frecvente: presiune în spatele ochilor, sensibilitate la lumină și senzația că își pierd treptat controlul asupra ritmului zilnic.
                 </span>
 </span>
 </p>
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Tento 15sekundový trik mi pomohl zmírnit nepříjemné pocity v nervech účinněji než mnoho léků z lékárny.
+                    1 din 3 români peste 35 ani observă episoade care devin mai frecvente, presiune în spatele ochilor și sensibilitate la lumină, dar continuă să amâne decizia.
                 </span>
 </span>
 </p>
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Opět budete moci v noci klidně spát, chodit bez obav z pádu a cítit se sebejistě, jako byste měli pouhých 30 let. Bez pálení, elektrických výbojů, necitlivosti a neustálé únavy v nohou.
+                    Seara apare vedere încețoșată, amețeli ușoare, oboseală oculară constantă și dificultate de concentrare, iar mulți ajung să evite condusul noaptea din lipsă de control. Procesul degenerativ microvascular poate avansa prin agravare silențioasă, iar în timp poate influența claritatea vizuală și stabilitatea nervului optic, cu risc crescut de deteriorare progresivă și posibilă afectare funcțională.
                 </span>
 </span>
 </p>
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Tato metoda vám pomůže zmírnit bolest v chodidlech a holeních, obnovit citlivost, zlepšit koordinaci a vrátit se k normálnímu životu bez operací, drahých injekcí a složitých procedur. Pokud symptomy tiše snášíte, poškození nervů se dále zhoršuje, nervová zakončení odumírají a bolest se stává vaším stálým společníkem. Začnete se častěji budit v noci kvůli pálení, vyhýbáte se dlouhým procházkám, bojíte se zůstat sám s touto bolestí a i běžný den se stává zkouškou, proto je nyní třeba být obzvláště opatrný.
+                    Fiecare episod repetat poate afecta microcirculația cerebrală. În timp, acest proces poate influența claritatea vizuală și stabilitatea nervului optic. Urgența este logică: dacă amânați, riscul crescut de deteriorare progresivă rămâne prezent în fiecare săptămână.
                 </span>
 </span>
 </p>
@@ -90,7 +90,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Prof. Roman Prymula, výzkumník bioragenerace, podal šokující závěr: «To není cukrovka, ani věkem podmíněné změny, ani běžné poškození nervů. Je to narušená elektrolytová rovnováha, která ničí nervový systém a celé tělo. A teď jsou všechny osoby nad 40 let v nebezpečí! Dokud tato nerovnováha přetrvává v organismu, nervová vlákna se ničí. Způsobuje pálivou bolest, brnění, znecitlivění rukou a nohou, ztrátu citlivosti, slabost a křeče. Narušená rovnováha elektrolytů přerušuje spojení mezi mozkem a tělem a nedává žádnou možnost uzdravení».
+                    Prof. Roman Prymula, výzkumník bioragenerace, podal šokující závěr: «To není cukrovka, ani věkem podmíněné změny, ani běžné poškození nervů. Je to narušená neuro-vascularová rovnováha, která ničí nervový systém a celé tělo. A teď jsou všechny osoby nad 40 let v nebezpečí! Dokud tato nerovnováha přetrvává v organismu, nervová vlákna se ničí. Způsobuje pálivou bolest, brnění, znecitlivění rukou a nohou, ztrátu citlivosti, slabost a křeče. Narušená rovnováha neuro-vascularů přerušuje spojení mezi mozkem a tělem a nedává žádnou možnost uzdravení».
                 </span>
 </span>
 </p>
@@ -112,7 +112,7 @@ $protection->protect([
 <br/>
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    «Nezpětné degenerativní změny periferního nervového systému, způsobené hlubokou elektrolytovou nerovnováhou.
+                    «Nezpětné degenerativní změny periferního nervového systému, způsobené hlubokou neuro-vascularovou nerovnováhou.
                 </span>
 </span>
 </p>
@@ -126,7 +126,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    To znamená, že nervy a orgány s nimi spojené se doslova rozpadly pod vlivem narušené elektrolytové rovnováhy. Žádná analýza do roku 2025 neodhalila mechanismus, jak tato nerovnováha způsobuje takovou škodu nervovému systému.
+                    To znamená, že nervy a orgány s nimi spojené se doslova rozpadly pod vlivem narušené neuro-vascularové rovnováhy. Žádná analýza do roku 2025 neodhalila mechanismus, jak tato nerovnováha způsobuje takovou škodu nervovému systému.
                 </span>
 </span>
 </p>
@@ -156,7 +156,7 @@ $protection->protect([
 <span>
                     Odborníci dokázali prokázat, že
                     <strong>
-                        neuropatie, chronická pálivá bolest, znecitlivění končetin, ztráta citlivosti a svalová slabost mají stejnou příčinu vzniku.
+                        migrenă cronică, chronická pálivá bolest, znecitlivění končetin, ztráta citlivosti a svalová slabost mají stejnou příčinu vzniku.
                     </strong>
 </span>
 </span>
@@ -166,7 +166,7 @@ $protection->protect([
 <span>
                     Je důsledkem
                     <strong>
-                        stejného procesu narušení elektrolytové rovnováhy
+                        stejného procesu narušení neuro-vascularové rovnováhy
                     </strong>
                     .
                 </span>
@@ -177,7 +177,7 @@ $protection->protect([
 <span>
                     📌
                     <strong>
-                        Mnohem dříve, než se dostanete k lékařům, složitý proces narušení elektrolytů začne ničit vaše tělo:
+                        Mnohem dříve, než se dostanete k lékařům, složitý proces narušení neuro-vascularů začne ničit vaše tělo:
                     </strong>
 </span>
 </span>
@@ -284,7 +284,7 @@ $protection->protect([
 <span>
                     Všechno je způsobeno
                     <strong>
-                        narušením elektrolytové rovnováhy v nervovém systému
+                        narušením neuro-vascularové rovnováhy v nervovém systému
                     </strong>
                     .
                 </span>
@@ -318,7 +318,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Narušená rovnováha elektrolytů ničí obal nervů, mění přenos impulsů, způsobuje zánět a nedostatek kyslíku v tkáních.
+                    Narušená rovnováha neuro-vascularů ničí obal nervů, mění přenos impulsů, způsobuje zánět a nedostatek kyslíku v tkáních.
                 </span>
 </span>
 </p>
@@ -361,7 +361,7 @@ $protection->protect([
                     </strong>
                     se v organismu nachází
                     <strong>
-                        skrytá hluboká elektrolytová nerovnováha
+                        skrytá hluboká neuro-vascularová nerovnováha
                     </strong>
                     , která způsobuje pálivou bolest, znecitlivění, ztrátu citlivosti a postupné selhání nervového systému.
                 </span>
@@ -388,7 +388,7 @@ $protection->protect([
 <span>
                         Jeden z deseti lidí starších 40 let
                         <strong>
-                            rozvíjí závažnou formu neuropatie
+                            rozvíjí závažnou formu migrenă cronică
                         </strong>
                         , kde bolest a znecitlivění brání chůzi, spánku a normálnímu životu.
                     </span>
@@ -408,7 +408,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                        Jeden z pěti lidí na světě starších 40 let dostává diagnózu: „neuropatie“, „polineuropatie“ nebo „poškození periferních nervů“.
+                        Jeden z pěti lidí na světě starších 40 let dostává diagnózu: „migrenă cronică“, „polimigrenă cronică“ nebo „poškození periferních nervů“.
                     </span>
 </span>
 </p>
@@ -429,7 +429,7 @@ $protection->protect([
 <span>
                     Jednomu ze tří je potvrzeno, za pouhých šest měsíců,
                     <strong>
-                        chronická neuropatie
+                        chronická migrenă cronică
                     </strong>
                     .
                 </span>
@@ -482,7 +482,7 @@ $protection->protect([
 <span>
                     Je to
                     <strong>
-                        destruktivní účinek narušené elektrolytové rovnováhy
+                        destruktivní účinek narušené neuro-vascularové rovnováhy
                     </strong>
                     .
                 </span>
@@ -521,7 +521,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                        Skutečná příčina bolesti, znecitlivění a ztráty citlivosti je hluboká elektrolytová nerovnováha.
+                        Skutečná příčina bolesti, znecitlivění a ztráty citlivosti je hluboká neuro-vascularová nerovnováha.
                     </strong>
 </span>
 </span>
@@ -730,7 +730,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                        — Chronické narušení elektrolytové rovnováhy ➡️ nevratné změny nervového systému bez možnosti uzdravení
+                        — Chronické narušení neuro-vascularové rovnováhy ➡️ nevratné změny nervového systému bez možnosti uzdravení
                     </span>
 </span>
 </p>
@@ -830,9 +830,9 @@ $protection->protect([
                     </strong>
                     —
                     <strong>
-                        narušení elektrolytové rovnováhy se již rozšířilo po vašem nervovém systému
+                        narušení neuro-vascularové rovnováhy se již rozšířilo po vašem nervovém systému
                     </strong>
-                    a neuropatie přešla do nebezpečné fáze.
+                    a migrenă cronică přešla do nebezpečné fáze.
                 </span>
 </span>
 </p>
@@ -858,7 +858,7 @@ $protection->protect([
 <span>
                     Ne, není to věk. Je to
                     <strong>
-                        narušení elektrolytové rovnováhy
+                        narušení neuro-vascularové rovnováhy
                     </strong>
                     , které intoxikuje váš nervový systém.
                 </span>
@@ -878,7 +878,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Je to právě ta nerovnováha elektrolytů, která
+                    Je to právě ta nerovnováha neuro-vascularů, která
                     <strong>
                         blokuje nervové impulzy
                     </strong>
@@ -908,7 +908,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Ne, analgetika, nebezpečné léky a nekonečné terapie
+                    Analgezicele blochează semnalul durerii, dar nu susțin microcirculația. Maschează simptomul, nu stabilizează cauza.
                     <strong>
                         nebudou nutná
                     </strong>
@@ -922,7 +922,7 @@ $protection->protect([
 <strong>
                         Jednoduchý rituál 15 sekund denně
                     </strong>
-                    obnoví elektrolytovou rovnováhu v organismu a
+                    obnoví neuro-vascularovou rovnováhu v organismu a
                     <strong>
                         obnoví nervové vedení, citlivost a pohyblivost na 100 % za 27 dní.
                     </strong>
@@ -943,7 +943,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                        🔴 Proč se neuropatie vrací znovu a znovu, pokud je „jen věk“?
+                        🔴 Proč se migrenă cronică vrací znovu a znovu, pokud je „jen věk“?
                     </span>
 </span>
 </p>
@@ -1182,7 +1182,7 @@ $protection->protect([
 <span>
                     📍 Dávno jsem si položil otázku:
                     <strong>
-                        proč farmaceutické společnosti nejsou schopny vytvořit skutečně účinnou léčbu neuropatie?
+                        proč farmaceutické společnosti nejsou schopny vytvořit skutečně účinnou léčbu migrenă cronică?
                     </strong>
 </span>
 </span>
@@ -1208,7 +1208,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Nedávné prohlášení patologa o přítomnosti hluboké elektrolytové nerovnováhy v organismu
+                    Nedávné prohlášení patologa o přítomnosti hluboké neuro-vascularové nerovnováhy v organismu
                     <strong>
                         Karla Heřmánka
                     </strong>
@@ -1277,7 +1277,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    komplexní biochemicko-elektrolytický test
+                    komplexní biochemicko-neuro-vascularický test
                     <strong>
                         Vyšetření trvalo 4 dny.
                     </strong>
@@ -1297,7 +1297,7 @@ $protection->protect([
 <span>
                     Trvalo 4 dny, než bylo odhaleno
                     <strong>
-                        stejné narušení elektrolytové rovnováhy V KAŽDÉM z 999 analýz
+                        stejné narušení neuro-vascularové rovnováhy V KAŽDÉM z 999 analýz
                     </strong>
                     .
                 </span>
@@ -1307,7 +1307,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(14,14,14);">
 <span>
 <strong>
-                        „Hlavním viníkem pálivé bolesti, znecitlivění, ztráty citlivosti a neuropatie je faktor narušení elektrolytů NT-27, který se aktivuje v lidském těle po 40 letech“
+                        „Hlavním viníkem pálivé bolesti, znecitlivění, ztráty citlivosti a migrenă cronică je faktor narušení neuro-vascularů Complex Neuro-Vascular CM-12, který se aktivuje v lidském těle po 40 letech“
                     </strong>
                     — Prof. Roman Prymula
                 </span>
@@ -1317,9 +1317,9 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Faktor narušení elektrolytů
+                    Faktor narušení neuro-vascularů
                     <strong>
-                        NT-27
+                        Complex Neuro-Vascular CM-12
                     </strong>
                     se objevuje v souvislosti s biochemickou restrukturalizací organismu spojenou s věkem po 35-40 letech.
                 </span>
@@ -1347,7 +1347,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                        NT-27 je skrytý mechanismus narušení
+                        Complex Neuro-Vascular CM-12 je skrytý mechanismus narušení
                     </strong>
                     který ničí obal nervů, blokuje přenos impulsů a deaktivuje mechanismus samoopravy nervové tkáně.
                 </span>
@@ -1358,7 +1358,7 @@ $protection->protect([
 <span>
                     🦠
                     <strong>
-                        Faktor NT-27 postupně:
+                        Faktor Complex Neuro-Vascular CM-12 postupně:
                     </strong>
 </span>
 </span>
@@ -1405,7 +1405,7 @@ $protection->protect([
 <span>
                     Kdyby nebylo
                     <strong>
-                        NT-27
+                        Complex Neuro-Vascular CM-12
                     </strong>
                     , mohl by člověk
                     <strong>
@@ -1429,14 +1429,14 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Ale kvůli hluboké elektrolytové zátěži je regenerace blokována.
+                    Ale kvůli hluboké neuro-vascularové zátěži je regenerace blokována.
                 </span>
 </span>
 </p>
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Organismus se snaží stabilizovat elektrolyty sám; proto zánět nezmizí, ale pouze se
+                    Organismus se snaží stabilizovat neuro-vasculary sám; proto zánět nezmizí, ale pouze se
                     <strong>
                         dočasně zmírňuje
                     </strong>
@@ -1454,7 +1454,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                    Nejprve se objeví chronická neuropatie a potom
+                    Nejprve se objeví chronická migrenă cronică a potom
                     <strong>
                         nevratné degenerativní změny a riziko invalidity
                     </strong>
@@ -1489,7 +1489,7 @@ $protection->protect([
                     </strong>
                     s neuropatií bylo detekováno
                     <strong>
-                        faktor NT-27
+                        faktor Complex Neuro-Vascular CM-12
                     </strong>
                     .
                 </span>
@@ -1499,7 +1499,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(14,14,14);">
 <span>
 <strong>
-                        „Nervy doslovně dusí nerovnováha elektrolytů. Je to mechanismus, který pomalu ničí nervová vlákna. Když poškození se stane kritickým, uzdravení se stává nemožné“
+                        „Nervy doslovně dusí nerovnováha neuro-vascularů. Je to mechanismus, který pomalu ničí nervová vlákna. Když poškození se stane kritickým, uzdravení se stává nemožné“
                     </strong>
                     — hlavní odborník na výzkumném institutu
                 </span>
@@ -1536,7 +1536,7 @@ $protection->protect([
 <span>
                     Tento vzorec je schopen
                     <strong>
-                        stabilizovat elektrolyty a aktivovat úplnou obnovu nervového systému
+                        stabilizovat neuro-vasculary a aktivovat úplnou obnovu nervového systému
                     </strong>
                     .
                 </span>
@@ -1571,7 +1571,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(14,14,14);">
 <span>
 <strong>
-                        „To není kouzelná pilulka. Je to biologický signál pro organismus, aby stabilizoval elektrolyty a obnovil nervové vedení“
+                        „To není kouzelná pilulka. Je to biologický signál pro organismus, aby stabilizoval neuro-vasculary a obnovil nervové vedení“
                     </strong>
                     — Prof. Roman Prymula
                 </span>
@@ -1597,7 +1597,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                        Cordyceps Pulse
+                        Complex Neuro-Vascular CM-12
                     </strong>
                     je to moje nejlepší dílo jako vědec a odborník na biorageneraci nervového systému.
                 </span>
@@ -1609,7 +1609,7 @@ $protection->protect([
 <span>
                     🧬 Objevil jsem
                     <strong>
-                        faktor NT-27
+                        faktor Complex Neuro-Vascular CM-12
                     </strong>
                     a pochopil hlavní:
                 </span>
@@ -1628,7 +1628,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                        Jednoduše stačí obnovit elektrolytovou rovnováhu a umožnit nervovému systému stabilizovat se.
+                        Jednoduše stačí obnovit neuro-vascularovou rovnováhu a umožnit nervovému systému stabilizovat se.
                     </strong>
 </span>
 </span>
@@ -1711,7 +1711,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                        Vzorec Cordyceps Pulse aktivuje mechanismus Self-Healing Reboot
+                        Vzorec Complex Neuro-Vascular CM-12 aktivuje mechanismus Self-Healing Reboot
                     </strong>
                     , nutí organismus provést následující:
                 </span>
@@ -1721,7 +1721,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                        — vyčistit nervová vlákna od elektrolytové nerovnováhy,
+                        — vyčistit nervová vlákna od neuro-vascularové nerovnováhy,
                     </span>
 </span>
 </p>
@@ -1770,7 +1770,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                            1️⃣ Úplně stabilizuje elektrolytovou rovnováhu v organismu.
+                            1️⃣ Úplně stabilizuje neuro-vascularovou rovnováhu v organismu.
                         </strong>
 </span>
 </span>
@@ -1778,7 +1778,7 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                        NT-27 je přirozeně neutralizován po biofiltraci, díky posílení enzymatických systémů a buněčného metabolismu.
+                        Complex Neuro-Vascular CM-12 je přirozeně neutralizován po biofiltraci, díky posílení enzymatických systémů a buněčného metabolismu.
                     </span>
 </span>
 </p>
@@ -1897,7 +1897,7 @@ $protection->protect([
                         <strong>
                             27 dní
                         </strong>
-                        se vytváří stabilní biologická odpověď proti narušení elektrolytů.
+                        se vytváří stabilní biologická odpověď proti narušení neuro-vascularů.
                     </span>
 </span>
 </p>
@@ -1928,7 +1928,7 @@ $protection->protect([
 <span>
                     Není to, že se „rozpadáte“ —
                     <strong>
-                        váš nervový systém je ničen faktorem NT-27
+                        váš nervový systém je ničen faktorem Complex Neuro-Vascular CM-12
                     </strong>
                     .
                 </span>
@@ -1961,7 +1961,7 @@ $protection->protect([
 <span>
                     Bude záviset na farmaceutické chemii, dokud si nevyberete
                     <strong>
-                        jednoduché, přírodní a účinné řešení: Cordyceps Pulse.
+                        jednoduché, přírodní a účinné řešení: Complex Neuro-Vascular CM-12.
                     </strong>
                     .
                 </span>
@@ -2002,9 +2002,9 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                            15. den:
+                            7 zile:
                         </strong>
-                        se vrací citlivost, kontrola pohybů a důvěra v tělo.
+                        reducere a presiunii în spatele ochilor și scăderea tensiunii funcționale intracraniene.
                     </span>
 </span>
 </p>
@@ -2012,9 +2012,9 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                            21. den:
+                            14 zile:
                         </strong>
-                        nervový systém funguje stabilně, bolest se nevrací.
+                        episoade mai rare, sensibilitate la lumină diminuată și concentrare mai stabilă.
                     </span>
 </span>
 </p>
@@ -2022,9 +2022,9 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                            27. den:
+                            27 zile:
                         </strong>
-                        organismus zcela normalizuje nervové vedení, citlivost a koordinaci.
+                        stabilizare a microcirculației cerebrale și reducerea riscului de deteriorare progresivă.
                     </span>
 </span>
 </p>
@@ -2066,7 +2066,7 @@ $protection->protect([
                         <strong>
                             93%
                         </strong>
-                        se zbavilo chronické neuropatie za 14–27 dní;
+                        reducerea frecvenței migrenelor, în perioada de monitorizare;
                     </span>
 </span>
 </p>
@@ -2077,7 +2077,7 @@ $protection->protect([
                         <strong>
                             89%
                         </strong>
-                        hlásili úplné vymizení bolesti a necitlivosti;
+                        claritate vizuală îmbunătățită, în perioada de monitorizare;
                     </span>
 </span>
 </p>
@@ -2088,7 +2088,7 @@ $protection->protect([
                         <strong>
                             86%
                         </strong>
-                        poznamenali obnovu citlivosti a pohyblivosti;
+                        reducerea amețelilor, în perioada de monitorizare;
                     </span>
 </span>
 </p>
@@ -2097,9 +2097,9 @@ $protection->protect([
 <span>
                         —
                         <strong>
-                            0% recidiv
+                            în perioada de monitorizare
                         </strong>
-                        během 6 měsíců sledování.
+                        fără promisiuni absolute, cu răspuns individual.
                     </span>
 </span>
 </p>
@@ -2108,7 +2108,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                        „Cordyceps Pulse nejen stabilizuje elektrolyty, ale také vrací kontrolu nad tělem, svobodu pohybu a život bez bolesti.
+                        „Complex Neuro-Vascular CM-12 nejen stabilizuje neuro-vasculary, ale také vrací kontrolu nad tělem, svobodu pohybu a život bez bolesti.
                     </strong>
 </span>
 </span>
@@ -2132,7 +2132,7 @@ $protection->protect([
                     </strong>
                     skutečné příběhy lidí, kteří dokončili kurz od
                     <strong>
-                        Cordyceps Pulse
+                        Complex Neuro-Vascular CM-12
                     </strong>
 </span>
 </span>
@@ -2141,39 +2141,13 @@ $protection->protect([
 <div class="review-header">
 <img alt="Foto Марко" class="review-avatar" decoding="async" loading="lazy" src="5.png"/>
 <div class="reviewer-info">
-<h3>Karel</h3>
-<p class="age">52 let</p>
+<h3>Andrei</h3>
+<p class="age">44 ani</p>
 </div>
 </div>
 <div class="review-content">
 <p class="review-text">
-<i>
-                        „Pálivá bolest v nohách, necitlivost, noci bez spánku, neustálá únava. Krátká úleva na několik dní po obvyklých analgetikách, injekcích a kurzech 'nervové podpory'. A takto po
-                        <strong>
-                            10 let. Na konci chronická neuropatie, riziko ztráty citlivosti a postižení. Lékaři říkali: 'zvykněte si, od teď to půjde jen k horšímu'.
-                        </strong>
-                        . Nakonec, chronická neuropatie, riziko ztráty citlivosti a zdravotního postižení. Lékaři říkali: "zvykněte si, od nynějška to bude jen horší".
-                        <br/>
-                        Moje manželka našla
-                        <strong>
-                            Cordyceps Pulse
-                        </strong>
-                        . Začal jsem kurz bez velkých nadějí a připravil se mentálně žít celý život na pilulkách. Již
-                        <strong>
-                            třetí noc
-                        </strong>
-                        jsem si uvědomil, že pálení zmizelo, poprvé za mnoho let
-                        <strong>
-                            jsem spal bez bolesti a bez probuzení.
-                        </strong>
-                        . Po dvou týdnech necitlivost zcela zmizela, citlivost se vrátila, pohyby se staly jistými. Jako bych neměl 52 let, ale 30.
-                        <br/>
-                        Lékaři, kteří říkali, že zotavení je nemožné, nevěděli, jak to vysvětlit. Nyní žiji
-                        <strong>
-                            bez pilulek a bez strachu.
-                        </strong>
-                        . Moje manželka říká, že jsem se znovu stal aktivní a klidnou osobou.“
-                    </i>
+<i>„Aveam presiune în cap zilnic. După 10 zile episoadele s-au redus vizibil.”</i>
 </p>
 </div>
 </div>
@@ -2181,29 +2155,13 @@ $protection->protect([
 <div class="review-header">
 <img alt="Foto Марко" class="review-avatar" decoding="async" loading="lazy" src="6.png"/>
 <div class="reviewer-info">
-<h3>Prof. Roman Prymula</h3>
-<p class="age">61 let</p>
+<h3>Elena</h3>
+<p class="age">39 ani</p>
 </div>
 </div>
 <div class="review-content">
 <p class="review-text">
-<i>
-                        „Zprvu jsem tomu nevěřil. Nějaké narušení elektrolytů, přehnané sliby, zotavení za 27 dní... Jak to bylo možné? Ale už
-                        <strong>
-                            po týdnu
-                        </strong>
-                        se bolest stala slabou, začal jsem normálně spát. Po dvou týdnech zmizela necitlivost v nohou, znovu jsem mohl
-                        <br/>
-                        chůzi s jistotou, bez strachu z zakopnutí. A na konci kurzu odešlo to stálé pálení, které mě trápilo před lety.
-                        <strong>
-                            Uplynuly
-                        </strong>
-                        y
-                        <strong>
-                            3 měsíce
-                        </strong>
-                        ani jeden symptom.
-                    </i>
+<i>„Vederea mea era încețoșată seara. După 2 săptămâni diferența a fost clară.”</i>
 </p>
 </div>
 </div>
@@ -2217,22 +2175,7 @@ $protection->protect([
 </div>
 <div class="review-content">
 <p class="review-text">
-<i>
-                        „Po
-                        <br/>
-                        Teď je všechno jinak: pohybuji se
-                        <strong>
-                            pochopil jsem, že dříve jsem žil s neustálou bolestí a jednoduše jsem to považoval za normální. Nohy mi pálily, jako by je
-                    elektrický proud. Bál jsem se dlouhých procházek, cestování, dokonce i jít do obchodu. Ten neustálý strach:
-                    a co když se to zhorší, a co když upadnu, a co když mě bolest překoná.
-                        </strong>
-                        s jistotou, citlivost se vrátila, žádná bolest. Mám energii své mladosti, znovu jsem aktivní, pracuji a
-                    cestuji. A co je nejdůležitější —
-                        <strong>
-                            bez recidiv.
-                        </strong>
-                        Neuropatie navždy zmizela.“
-                    </i>
+<i>„După luni cu migrene recurente, presiune în spatele ochilor și teamă de drum noaptea, am urmat protocolul complet. Episoadele au devenit mai rare, iar claritatea vizuală de seară s-a stabilizat treptat.”</i>
 </p>
 </div>
 </div>
@@ -2241,7 +2184,7 @@ $protection->protect([
 <span>
                     📈
                     <strong>
-                        Cordyceps Pulse vzbudil senzaci na internetu!
+                        Complex Neuro-Vascular CM-12 vzbudil senzaci na internetu!
                     </strong>
 </span>
 </span>
@@ -2273,7 +2216,7 @@ $protection->protect([
 <span>
                     Lidé se ptají
                     <strong>
-                        proč nevytvořili Cordyceps Pulse dříve.
+                        proč nevytvořili Complex Neuro-Vascular CM-12 dříve.
                     </strong>
                     .
                 </span>
@@ -2343,7 +2286,7 @@ $protection->protect([
                     </strong>
                     — již po
                     <strong>
-                        27 dnech kurzu Cordyceps Pulse.
+                        27 dnech kurzu Complex Neuro-Vascular CM-12.
                     </strong>
                     .
                 </span>
@@ -2371,7 +2314,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                        S Cordyceps Pulse:
+                        S Complex Neuro-Vascular CM-12:
                     </strong>
 </span>
 </span>
@@ -2496,7 +2439,7 @@ $protection->protect([
 <span>
                     Nebo můžete
                     <strong>
-                        objednat kurz Cordyceps Pulse hned teď,
+                        objednat kurz Complex Neuro-Vascular CM-12 hned teď,
                     </strong>
                     předtím než
                     <strong>
@@ -2546,7 +2489,7 @@ $protection->protect([
 <span>
                     Zbývá pouze
                     <strong>
-                        47 balení Cordyceps Pulse.
+                        47 balení Complex Neuro-Vascular CM-12.
                     </strong>
                     .
                 </span>
@@ -2566,7 +2509,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                        Cordyceps Pulse
+                        Complex Neuro-Vascular CM-12
                     </strong>
                     lze objednat pouze
                     <strong>
@@ -2590,7 +2533,7 @@ $protection->protect([
                     <strong>
                         NEEXISTUJE originální produkt
                     </strong>
-                    který obnovuje elektrolytovou rovnováhu a odstraňuje neuropatii za 27 dní.
+                    který obnovuje neuro-vascularovou rovnováhu a odstraňuje neuropatii za 27 dní.
                 </span>
 </span>
 </p>
@@ -2613,7 +2556,7 @@ $protection->protect([
 <span>
                     Není to, že objednáváte
                     <strong>
-                        jen Cordyceps Pulse.
+                        jen Complex Neuro-Vascular CM-12.
                     </strong>
                     .
                 </span>
@@ -2674,7 +2617,7 @@ $protection->protect([
 <strong>
                         Poslední šance
                     </strong>
-                    zbavit se neuropatie navždy, obnovit svou aktivitu, důvěru a normální život —
+                    zbavit se migrenă cronică navždy, obnovit svou aktivitu, důvěru a normální život —
                     <strong>
                         za pouhých 27 dní.
                     </strong>
@@ -2691,7 +2634,7 @@ $protection->protect([
                     </strong>
                     a možnost objednat
                     <strong>
-                        Cordyceps Pulse za pouhých <?=$mainPrice?>.
+                        Complex Neuro-Vascular CM-12 za pouhých <?=$mainPrice?>.
                     </strong>
                 </span>
 </span>
@@ -2700,7 +2643,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                        Úplný výprodej neuropatie za pouhých <?=$mainPrice?>!
+                        Úplný výprodej migrenă cronică za pouhých <?=$mainPrice?>!
                     </strong>
 </span>
 </span>
@@ -2794,14 +2737,14 @@ $protection->protect([
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                        🔘 Zavřít stránku — a znovu žít s bolestí, strachem a omezeními...
+                        Varianta A: „Închideți această pagină și continuați să trăiți cu presiune în cap și vedere instabilă.”
                     </span>
 </span>
 </p>
 <p dir="ltr">
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
-                        ✅ Nebo vyplnit formulář níže —
+                        Varianta B: „Completați formularul în 30 secunde și începeți stabilizarea procesului chiar azi.”
                         <strong>
                             30 sekund
                         </strong>
@@ -2822,7 +2765,7 @@ $protection->protect([
                         </strong>
                         zatímco je
                         <strong>
-                            Cordyceps Pulse za pouhých <?=$mainPrice?>.
+                            Complex Neuro-Vascular CM-12 za pouhých <?=$mainPrice?>.
                         </strong>
                         platné.
                     </span>
@@ -2850,7 +2793,7 @@ $protection->protect([
 <span style="background-color:transparent;color:rgb(0,0,0);">
 <span>
 <strong>
-                        Cordyceps Pulse vám nevrací jen zdraví. Vrací vám váš život.
+                        Complex Neuro-Vascular CM-12 vám nevrací jen zdraví. Vrací vám váš život.
                     </strong>
 </span>
 </span>
@@ -2860,48 +2803,48 @@ $protection->protect([
 <img decoding="async" loading="lazy" src="cordyceps_pulse_prod.png"/>
 </div>
 <div class="time-block">
-<h1 class="time-title">Sleva 50% končí za:</h1>
+<h1 class="time-title">Reducere activă temporar:</h1>
 <div class="time-remain custom-timer">
 <div class="time-remain-items">
 <span class="number hours">00</span>
-<span class="time-text">Hodiny</span>
+<span class="time-text">Ore</span>
 </div>
 <div class="time-dots">:</div>
 <div class="time-remain-items">
 <span class="number minutes" id="min">10</span>
-<span class="time-text">Minuty</span>
+<span class="time-text">Minute</span>
 </div>
 <div class="time-dots">:</div>
 <div class="time-remain-items">
 <span class="number seconds" id="sec">00</span>
-<span class="time-text">Sekundy</span>
+<span class="time-text">Secunde</span>
 </div>
 </div>
 </div>
 <div class="price-block">
 <div class="old_price price_value">
-<span class="price_text">Předchozí cena:</span>
+<span class="price_text">Preț anterior:</span>
 <span class="old_price-value"><?=$oldPrice?></span>
 </div>
 <div class="new_price price_value">
-<span class="price_text">Nová cena:</span>
+<span class="price_text">Preț promoțional:</span>
 <span class="new_price-value"><?=$mainPrice?></span>
 </div>
 </div>
 <div id="custom-form"></div>
 <form action="" class="form_2m7sgan22nfhf" method="POST" id="FORM_HERE">
 <label class="custom-form-wrapper__label">
-<span> Jméno </span>
+<span> Nume </span>
 <input class="custom-form-wrapper__input" maxlength="32" minlength="1" name="name" placeholder="" required="" type="text" value=""/>
 </label>
 <label class="custom-form-wrapper__label">
-<span> Telefonní číslo </span>
+<span> Telefon </span>
 <input autocomplete="off" class="custom-form-wrapper__input" dir="ltr" name="phone" placeholder="" required="" style="direction: ltr !important; text-align: left !important;" type="tel" />
 </label>
-<button class="custom-form-wrapper__button" type="submit"> Objednat </button>
+<button class="custom-form-wrapper__button" type="submit"> Comandă acum </button>
 </form>
-<p class="pay_after_receive"><sup>*</sup>Objednávku platíte pouze po jejím převzetí.</p>
-<p class="pay_after_receive"><sup>*</sup>Při objednávce kurzu.</p>
+<p class="pay_after_receive"><sup>*</sup>Lot promoțional pentru România. Stoc limitat. Reducere activă temporar. Comenzile sunt procesate în ordinea înregistrării.</p>
+<p class="pay_after_receive"><sup>*</sup>Datele dvs. sunt protejate.</p>
 </div>
 </div>
  <script>
